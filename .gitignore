@@ -1,0 +1,5 @@
+training/models/*.pth
+training/data
+*.env
+*.pyc
+__pycache__/
